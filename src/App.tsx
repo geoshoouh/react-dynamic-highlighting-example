@@ -25,8 +25,6 @@ function App() {
 
   return (
     <>
-      <h3>Click "UP" or "DOWN" buttons to change number of components</h3>
-      <h3>Press "q" to toggle highlight on last component</h3>
       <button
         onClick={
           () => {
